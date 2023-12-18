@@ -8,14 +8,18 @@ Es posible que más adelante le añada más funcionalidades.
 ### How to use
 1. Clona el repositorio
 ```
-git clone https://github.com/diego2444/monitoreo.git
+sudo git clone https://github.com/diego2444/monitoreo.git
 ```
-2. entra en la carpeta
+2. Entra en la carpeta
 ```
 cd monitoreo
 ```
+3. Dale permisos al script
+```
+sudo chmod +x monitoreo.sh
+```
 
-3. ejecuta el archivo "monitoreo.sh"
+3. Ejecuta el script
 ```
 ./monitoreo.sh
 ```
